@@ -1,0 +1,15 @@
+body {
+    color: #444;
+}
+
+header {
+    text-align: center;
+    font-size: 26px;
+    padding-top: 10px;
+}
+
+#tagline {
+    text-align: center;
+    font-size: 15px;
+    color: #666;
+}
