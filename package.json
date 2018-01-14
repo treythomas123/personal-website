@@ -1,12 +1,9 @@
 {
   "name": "treythomas.me",
   "version": "1.0.0",
-  "description": "This repository holds the code for my personal website, which is deployed here: http://treythomas.me",
+  "description": "This repository holds the code for my personal website, http://treythomas.me",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/treythomas123/personal-website.git"
@@ -17,7 +14,5 @@
     "url": "https://github.com/treythomas123/personal-website/issues"
   },
   "homepage": "https://github.com/treythomas123/personal-website#readme",
-  "dependencies": {
-    "express": "^4.13.4"
-  }
+  "dependencies": {}
 }
