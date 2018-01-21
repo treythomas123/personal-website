@@ -9,6 +9,7 @@ header {
     text-align: center;
     font-size: 44px;
     padding: 40px 0px 20px 0px;
+    text-transform: uppercase;
 }
 
 #links {
@@ -29,6 +30,7 @@ header {
     background: linear-gradient(#444 60%, #333 110%);
     padding: 0px 10px;
     box-shadow: 0px 0px 30px -5px hsl(0, 0%, 10%);
+    text-transform: uppercase;
 }
 
 #links > a > img {
