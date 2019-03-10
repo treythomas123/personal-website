@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/http-server public",
-    "deploy": "aws s3 sync public s3://aws-website-treythomasme-np2wv/ --delete"
+    "deploy": "aws s3 sync public s3://treythomas.me/ --delete"
   },
   "repository": {
     "type": "git",
